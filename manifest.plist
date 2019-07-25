@@ -31,16 +31,16 @@
                 </dict>  
             </array>  
             <key>metadata</key>  
-            <dict>  
-                <key>bundle-identifier</key>  
-                <string>gtcloud</string>  
-                <key>bundle-version</key>  
-                <string>3.8.0</string>  
-                <key>kind</key>  
-                <string>software</string>  
-                <key>title</key>  
-                <string>绿城云盘IOS APP</string>  
-            </dict>  
+            <dict>
+                <key>com.sogou.sogoureaderinhouse</key>
+                <string>com.sogou.sogoureaderinhouse</string>
+                <key>5.6.1</key>
+                <string>5.6.1</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>搜狗阅读</key>
+                <string>搜狗阅读iOS</string>
+            </dict>
         </dict>  
     </array>  
 </dict>
