@@ -1,5 +1,7 @@
 [5.6.1](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/robertyuyang/packdispatch/master/manifest.plist)
 
+[other's plist in our github](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/robertyuyang/packdispatch/master/test.plist)
+
 [test](itms-services:///?action=download-manifest&url=https://github.com/dadoocn/MANIFEST-PLIST/blob/master/GTCLOUD.plist)
 
 [test1](itms-services:///?action=download-manifest&url=https://github.com/dadoocn/MANIFEST-PLIST/raw/master/GTCLOUD.plist)
