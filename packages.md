@@ -1,4 +1,4 @@
-[5.6.1](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/robertyuyang/packdispatch/master/manifest.plist)
+[5.6.1](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/robertyuyang/robertyuyang.github.io/master/manifest.plist)
 
 [other's plist in our github](itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/robertyuyang/packdispatch/master/test.plist)
 
