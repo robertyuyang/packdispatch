@@ -6,26 +6,30 @@
     <array>
         <dict>
             <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>https://1git.sogou-inc.com/ReadingAppDev/package/raw/master/ios/package/5.6.1/inhouse/sogoureader.ipa_5.6.1.ipa</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>url</key>
-                    <string>https://2git.sogou-inc.com/ReadingAppDev/package/raw/master/ios/icon/%E6%90%9C%E7%8B%97%E9%98%85%E8%AF%BB_Logo_iOS_2.2_57.png</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>url</key>
-                    <string>https://3git.sogou-inc.com/ReadingAppDev/package/raw/master/ios/icon/%E6%90%9C%E7%8B%97%E9%98%85%E8%AF%BB_Logo_iOS_2.2_1024.png</string>
-                </dict>
-            </array>
+            <array>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>software-package</string>  
+                    <key>url</key>  
+                    <string>https://pan.gtcloud.cn/ios/GTCLOUDInstaller.ipa</string>  
+                </dict>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>full-size-image</string>  
+                    <key>needs-shine</key>  
+                    <true/>  
+                    <key>url</key>  
+                    <string>https://pan.gtcloud.cn/ios/IPA_512.png</string>  
+                </dict>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>display-image</string>  
+                    <key>needs-shine</key>
+                    <true/>  
+                    <key>url</key>  
+                    <string>https://pan.gtcloud.cn/ios/IPA_57.png</string>  
+                </dict>  
+            </array>  
             <key>metadata</key>
             <dict>
                 <key>com.sogou.sogoureaderinhouse</key>
